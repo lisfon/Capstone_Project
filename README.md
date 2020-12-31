@@ -31,11 +31,13 @@ which are used to compute following indicators:
 
 ## File Descriptions <a name="files"></a>
 
-There is a Python notebook including comments that summarizes the analysis performed as well as a report describing the data used, the methodology and the results.
+There is a Python notebook including comments that summarizes the analysis performed as well as a report describing the data used, the methodology and the results:
+https://github.com/lisfon/IBM_Data_Science_Certificate/blob/main/Capstone_Project_Notebook.ipynb
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found in the repository.
+The main findings of the code can be found in the repository:
+https://github.com/lisfon/IBM_Data_Science_Certificate/blob/main/Capstone_Project_Report.ipynb
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
